@@ -6,11 +6,11 @@
 
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)- Linux
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)- Linux
 - Git & GitHub
-- Docker
-- AWS
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)- Docker
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)- AWS
 
 ## Currently Learning
 - DevOps
