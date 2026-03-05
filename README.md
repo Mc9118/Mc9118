@@ -1,8 +1,10 @@
 # Hi 👋 I'm Mayank
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
 💻 B.Tech CSE Student  
 ☁️ Learning Cloud Computing  
 🐳 Exploring Docker & DevOps  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mc9118&show_icons=true)
 
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
