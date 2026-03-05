@@ -5,7 +5,9 @@
 🐳 Exploring Docker & DevOps  
 
 ## Skills
-- Linux
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)- Linux
 - Git & GitHub
 - Docker
 - AWS
