@@ -5,13 +5,6 @@
 🐳 Exploring Docker & DevOps  
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mc9118&show_icons=true&theme=tokyonight)
-
-
-
-
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
