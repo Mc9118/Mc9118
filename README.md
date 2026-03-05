@@ -4,7 +4,7 @@
 ☁️ Learning Cloud Computing  
 🐳 Exploring Docker & DevOps  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mc9118&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Mc9118&show_icons=true&theme=tokyonight" />
 
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
