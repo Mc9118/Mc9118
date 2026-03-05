@@ -11,5 +11,5 @@
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)- AWS
 
 ## Currently Learning
-- DevOps
-- Cloud Automation
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)- DevOps
+![Cloud](https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge&logo=icloud&logoColor=white)- Cloud Automation
