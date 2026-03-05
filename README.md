@@ -4,7 +4,7 @@
 
 💻 B.Tech CSE Student  
 ☁️ Learning Cloud Computing  
-🐳 Exploring Docker & DevOps  
+🐳 Exploring DevOps Automation  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mc9118)
 
