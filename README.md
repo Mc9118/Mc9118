@@ -1,5 +1,5 @@
 
-                                                     ![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 # Hi 👋 I'm Mayank
 
