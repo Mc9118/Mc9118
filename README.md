@@ -24,3 +24,4 @@
 ## Currently Learning
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Cloud](https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge&logo=icloud&logoColor=white)
+ ![CLI](https://img.shields.io/badge/CLI-Command_Line_Interface-black?style=for-the-badge&logo=gnubash)
