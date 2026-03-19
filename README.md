@@ -1,6 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mc9118&color=blue
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+
 
 # Hi 👋 I'm Mayank
 
