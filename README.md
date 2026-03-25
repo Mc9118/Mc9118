@@ -9,7 +9,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mc9118)
 
-## Skills
+## Skills:
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -22,7 +22,7 @@
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Currently Learning
+## Currently Learning:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Cloud](https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge&logo=icloud&logoColor=white)
  ![CLI](https://img.shields.io/badge/CLI-Command_Line_Interface-black?style=for-the-badge&logo=gnubash)
