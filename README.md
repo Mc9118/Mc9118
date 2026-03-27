@@ -3,9 +3,9 @@
 
 # Hi 👋 I'm Mayank
 
-💻 B.Tech CSE Student  
-☁️ Learning Cloud Computing  
-🐳 Exploring DevOps Automation  
+💻 B.Tech CSE Student.  
+☁️ Learning Cloud Computing.  
+🐳 Exploring DevOps Automation.  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mc9118)
 
