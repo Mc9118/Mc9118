@@ -30,3 +30,5 @@
  ![CLI](https://img.shields.io/badge/CLI-Command_Line_Interface-black?style=for-the-badge&logo=gnubash)
  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Build Status](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/main.yml/badge.svg)
