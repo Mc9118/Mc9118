@@ -31,4 +31,4 @@
  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Build Status](https://github.com/Mc9118/README.md/actions/workflows/main.yml/badge.svg)
+
